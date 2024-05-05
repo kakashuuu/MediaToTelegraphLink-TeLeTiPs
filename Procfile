@@ -1,1 +1,1 @@
-worker: python3 mediatotelegraphlink.py
+web: python3 mediatotelegraphlink.py
